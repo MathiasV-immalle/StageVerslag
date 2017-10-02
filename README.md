@@ -11,12 +11,20 @@ De link naar de lange versie is binnenkort beschikbaar.
 - Deze tickets worden gemaakt en gebruikt met behulp van het programma Microsoft Dynamics Navision. 
 - Aangezien samenwerken belangrijk is, zag ik ook vaak de samenwerkingsruimte van OneNote verschijnen. Hier kan men real-time info communiceren aan de andere medewerkers zonder recht te staan of telefoontjes te onderbreken. Dit bespaart iedereen een hoop tijd.
 - Men gebruikt Gmail om al het nodige e-mailverkeer te regelen en SwyxIt is hun belprogramma. 
+  - Hier ziet u een typisch werkstation van een medewerker.
+![afbeelding](afb/Werkplatform.jpg)
+  - Hier ziet u de reparatieplek voor smartphones en tablets.
+![afbeelding](afb/ReparatiePlek.jpg)
 
 > Ik heb ook verschillende dingen bijgeleerd over het repareren van en de inhoud van een toestel.
 
 - Vele vijsjes hebben een verschillende lading. Vandaar moet men ze goed sorteren en op dezelfde plaats terugsteken, anders kan dit zelfs voor kortsluiting op het moederbord zorgen.
-- De binnenkant van een samsung-smartphone is veel handiger om te repareren dan een iPhone. 
-- Een iPad repareren is een nachtmerrie. 
+- Een iPad repareren is een nachtmerrie.
+- De binnenkant van een samsung-smartphone is veel handiger om te repareren dan een Apple-smartphone.
+  - Hier ziet u een opengehaalde Samsung-smartphone.
+![afbeelding](afb/OpenSamsung.jpg)
+  - Hier ziet u een opengevezen Apple-smartphone.
+![afbeelding](afb/OpeniPhone.jpg) 
 
 > Op de werkvloer zit de sfeer goed. 
 
