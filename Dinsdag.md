@@ -1,5 +1,5 @@
-### Dinsdag 3 Oktober 2017
-#### Op bezoek bij een klant
+# Dinsdag 3 Oktober 2017
+### Op bezoek bij een klant
 > Vandaag heb ik eerst een halve dag meegewerkt met een hardware-engineer. 
 Toen hij een oproep kreeg van een nieuwe klant, mocht ik meegaan om te kijken hoe hij het probleem zou oplossen.
 Hier vertel ik kort wat er aan de hand was en hoe we dat hebben opgelost, samen met enkele dingen die ik ervan heb opgestoken.
@@ -27,14 +27,14 @@ Als de DNS werkt zal de server nu zelf een IP-adres aan de laptop geven (zoals h
 - Als alles werkt kan het bezoek afgerond worden: bij een nieuwe klant wordt er plaatselijk een bon gemaakt, afgedrukt en getekend. Bestaande klanten hebben een contract. 
 Ze kopen “werkuren” van VanRoey.be en de gewerkte uren van die dag worden gewoon van het totaal aantal resterende werkuren afgetrokken.
 
-#### Service-desk
+### Service-desk
 > In de namiddag heb ik nog even bij de service-desk mogen staan. Ook vandaag heb ik daar nuttige, praktische dingen bijgeleerd.
 - AMOLED-schermen zijn beter dan LCD-schermen.
 -	Bij het vervangen van bv. een Samsung-scherm of het glaasje van de achterste camera 
 moet men de lijm (een dubbezijdig plakkend voorwerp in de vorm van het onderdeel dat bevestigd moet worden) 
 zeker stevig bevestigen en extra vastdrukken, zodat de lijm (en dus ook het scherm) niet loskomt.
 
-#### Kennismaking VanRoey.be
+### Kennismaking VanRoey.be
 > Het laatste uurtje heb ik in de eetzaal / vergaderzaal doorgebracht met mijn begeleidster. 
 We hebben daar de onthaalbrochure van VanRoey.be even doorgenomen. 
 - Dankzij deze bundel kon ik vandaag ook aan mijn GIP-taak rond de huisstijl van VanRoey.be beginnen. 
