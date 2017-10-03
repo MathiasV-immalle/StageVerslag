@@ -1,5 +1,5 @@
-### Maandag 2 Oktober 2017
-##### Service-desk
+# Maandag 2 Oktober 2017
+### Service-desk
 > Vandaag heb ik vooral de werking van de servicedesk bestudeerd: hoe gaat men met klanten om, hoe geven ze de mensen "eerste hulp" en als belangrijkste, wat doen ze als die "eerste hulp" niet werkt en het toestel binnengenomen wordt?
 Ik som kort even op wat ik vandaag precies heb gezien.
 De link naar de lange versie is binnenkort beschikbaar.
