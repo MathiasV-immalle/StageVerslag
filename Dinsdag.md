@@ -36,7 +36,7 @@ zeker stevig bevestigen en extra vastdrukken, zodat de lijm (en dus ook het sche
 
 ### Kennismaking VanRoey.be
 > Het laatste uurtje heb ik in de eetzaal / vergaderzaal doorgebracht met mijn begeleidster. 
-We hebben daar de onthaalbrochure van VanRoey.be even doorgenomen. 
+We hebben daar de onthaalbrochure van VanRoey.be even doorgenomen. De link naar mijn GIP-taak over de huisstijl van VanRoey.be zal hier later nog verschijnen.
 - Dankzij deze bundel kon ik vandaag ook aan mijn GIP-taak rond de huisstijl van VanRoey.be beginnen. 
 Binnenkort zal u hier een link vinden om deze taak te bekijken.
 - Ik heb nu ook een beter zicht op het doorstromen van de werknemers. 
