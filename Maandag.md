@@ -31,3 +31,5 @@ De link naar de lange versie is binnenkort beschikbaar.
 - De gezellige babbels ontbreken niet, zowel over werk- als niet werk-gerelateerde onderwerpen.
 
 *//elk puntje wordt geteld als zin -> 11 zinnen*
+
+Klik [hier](https://github.com/MathiasV-immalle/StageVerslag/blob/master/Dinsdag.md) om Dinsdag 03/10/'17 te bekijken.
