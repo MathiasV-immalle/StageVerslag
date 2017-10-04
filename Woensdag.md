@@ -21,6 +21,10 @@
 ##### Monitoringpakket
 - Assurline.vanroey.be is een eigen programma dat VanRoey.be gebruikt om servers van hun klanten te monitoren. Klanten die deze extra feature wensen, moeten uiteraard een betalend contract tekenen. 
 
+> Hier ziet u een foto van mijn tijdelijke werkplaats vandaag:
+
+![afbeelding](afb/Werkbasis.jpg)
+
 *//elk puntje wordt geteld als zin -> 12 zinnen*
 
 Klik [hier](https://github.com/MathiasV-immalle/StageVerslag/blob/master/Dinsdag.md) om Dinsdag 03/10/'17 te bekijken.
