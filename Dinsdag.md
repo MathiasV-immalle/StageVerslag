@@ -28,11 +28,20 @@ Als de DNS werkt zal de server nu zelf een IP-adres aan de laptop geven (zoals h
 Ze kopen “werkuren” van VanRoey.be en de gewerkte uren van die dag worden gewoon van het totaal aantal resterende werkuren afgetrokken.
 
 ### Service-desk
-> In de namiddag heb ik nog even bij de service-desk mogen staan. Ook vandaag heb ik daar nuttige, praktische dingen bijgeleerd.
+> In de namiddag heb ik nog even bij de service-desk mogen staan. Ook vandaag heb ik daar nuttige, praktische dingen bijgeleerd. 
 - AMOLED-schermen zijn beter dan LCD-schermen.
 -	Bij het vervangen van bv. een Samsung-scherm of het glaasje van de achterste camera 
 moet men de lijm (een dubbezijdig plakkend voorwerp in de vorm van het onderdeel dat bevestigd moet worden) 
 zeker stevig bevestigen en extra vastdrukken, zodat de lijm (en dus ook het scherm) niet loskomt.
+> Ook heb ik even meegekeken naar een medewerker die desktops aan het onderzoeken was, zoals u kan zien op volgende foto's:
+
+![afbeelding](afb/DesktopTesten.jpg)
+![afbeelding](afb/DesktopTesten2.jpg)
+![afbeelding](afb/OpenDesktop.jpg)
+
+> Hier ziet u een selfie van mij, in de reparatiedienst achter de service-desk.
+
+![selfie](afb/Selfie.jpg)
 
 ### Kennismaking VanRoey.be
 > Het laatste uurtje heb ik in de eetzaal / vergaderzaal doorgebracht met mijn begeleidster. 
