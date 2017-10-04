@@ -30,6 +30,10 @@ De link naar de lange versie is binnenkort beschikbaar.
 - Er staat altijd zachte muziek op, vooral rock-'n-roll en heavy metal, maar ook meezingers en populaire songs. 
 - De gezellige babbels ontbreken niet, zowel over werk- als niet werk-gerelateerde onderwerpen.
 
+> Hier ziet u een foto van mijn tijdelijke werkplaats vandaag:
+
+![afbeelding](afb/Werkbasis2.jpg)
+
 *//elk puntje wordt geteld als zin -> 11 zinnen*
 
 Klik [hier](https://github.com/MathiasV-immalle/StageVerslag/blob/master/Dinsdag.md) om Dinsdag 03/10/'17 te bekijken.
