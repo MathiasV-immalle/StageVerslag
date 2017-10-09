@@ -14,12 +14,15 @@
 ##### Serverniveau: VMware
 - VMware: Hypervisor. Via dit programma zet VanRoey.be zijn virtuele servers op zijn fysieke servers.
   - De cluster (groep samenwerkende servers) van VanRoey.be bestaat uit 4 fysieke servers met elk 140GB werkgeheugen (en andere details). Waarom deze servers elk zoveel werkgeheugen hebben is, wanneer er 3 servers uitvallen (uitzonderlijk) moet de overblijvende server alles op zichzelf kunnen draaien.
+[VMWare](https://www.vmware.com/nl.html)
  ##### Securityniveau
 - Fortinet: Security vendor. Vanroey.be heeft niet één, niet geen, maar twee firewalls (waarvan 1 reserve uiteraard) met de eerste failover door Telenet (omdat VanRoey.be een partner is van Telenet), en een tweede door bijvoorbeeld Proximus (hangt er een beetje van af).
+[Fortinet](https://www.fortinet.com/)
 ##### Switchingniveau
 - VanRoey.be heeft één core-switch, in een cluster met andere switchen. De core-switch is een stack van switchen: Allerlei switchen boven elkaar in één of meerdere kasten vlak naast elkaar. Dit brengt mooie voordelen met zich mee zoals betere performantie, en zo kunnen bijvoorbeeld ook twee poorten van 1gigabit gebundeld worden tot één poort van 2gigabit, wat zorgt voor een mooie Uplink.
 ##### Monitoringpakket
-- Assurline.vanroey.be is een eigen programma dat VanRoey.be gebruikt om servers van hun klanten te monitoren. Klanten die deze extra feature wensen, moeten uiteraard een betalend contract tekenen. 
+- Assurline is een eigen programma dat VanRoey.be gebruikt om servers van hun klanten te monitoren. Klanten die deze extra feature wensen, moeten uiteraard een betalend contract tekenen. 
+[Assurline](https://www.vanroey.be/Projecten/210-assurline-beheers-uw-omgeving/)
 
 > Hier ziet u een foto van mijn tijdelijke werkplaats vandaag:
 
