@@ -3,6 +3,9 @@
 > Vandaag heb ik eerst een halve dag bij Navision Support gestaan. Daar onderhouden ze vooral de SQL database achter Microsoft Dynamics NAV en maken ze nieuwe tickets, maar beheren ze ook het volledige Microsoft Dynamics NAV pakket (de ERP, enterprise recource planning). Navision Support beheerd de "NAV" mailbox, waarin alle vragen en klachten binnenkomen van mensen die in hun bedrijf ook NAV gebruiken. Bij sommige, erg belangrijke tickets proberen ze meteen een oplossing te vinden, andere tickets moeten opgelost worden bij Remote Support. Ik heb hier vooral extra info gekregen over de gebruikte software, en deze zal ik hier met jullie meedelen.
 - Nieuwe tickets aanmaken is makkelijker dan ooit, de klant kan gewoon naar een webadres surfen, zijn vraag ingeven en deze vraag volledig volgen tot deze opgelost is. De klant kan perfect volgen wie er nu met zijn vraag bezig is, en wat ze ermee doen.
 [Microsoft Dynamics NAV](https://www.microsoft.com/nl-be/dynamics365/nav-overview)
+
+Ik heb nog even een screenshot gevraagd aan mijn begeleider zodat jullie toch een idee hebben over hoe NAV eruitziet. Dit is de menu-pagina: 
+![afb](afb/NAV.png)
 - VanRoey.be gebruikt in de winkels mobiele scanners om bijvoorbeeld stock te bepalen. Deze scanners staan in directe verbinding met de SQL database achter Microsoft Dynamics NAV. Zo moeten de werknemers niet alles handmatig ingeven en zo besparen ze een hoop werk, tijd en dus ook geld! Deze scanners staan in NAV onder de naam MWS: Mobile solutions.
 - Greenshot is bij VanRoey.be het standaard programma om screenshots mee te nemen.
 [Greenshot](http://getgreenshot.org/)
