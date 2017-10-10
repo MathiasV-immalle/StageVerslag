@@ -61,7 +61,7 @@ Ze kopen “werkuren” van VanRoey.be en de gewerkte uren van die dag worden ge
 
 ### Service-desk
 > In de namiddag heb ik nog even bij de service-desk mogen staan. Ook vandaag heb ik daar nuttige, praktische dingen bijgeleerd. 
-- AMOLED-schermen zijn beter dan LCD-schermen.
+- AMOLED-schermen zijn beter dan LCD-schermen: wanneer AMOLED verbrand raakt herstelt dit zichzelf na een korte tijd. Bij LCD herstelt dit niet. AMOLED is daardoor wel duurder. Ook geven AMOLED-schermen kleuren feller en mooier weer. Samsung gebruikt al 5 jaar de AMOLED schermen, Apple heeft nu net de iPhone 10 uitgebracht, de eerste (!) met het AMOLED scherm. 
 -	Bij het vervangen van bv. een Samsung-scherm of het glaasje van de achterste camera 
 moet men de lijm (een dubbezijdig plakkend voorwerp in de vorm van het onderdeel dat bevestigd moet worden) 
 zeker stevig bevestigen en extra vastdrukken, zodat de lijm (en dus ook het scherm) niet loskomt.
