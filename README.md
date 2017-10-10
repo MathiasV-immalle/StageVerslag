@@ -18,8 +18,8 @@ De link naar de lange versie is binnenkort beschikbaar.
 > Ik heb ook verschillende dingen bijgeleerd over het repareren van en de inhoud van een toestel.
 
 - Vele vijsjes hebben een verschillende lading. Vandaar moet men ze goed sorteren en op dezelfde plaats terugsteken, anders kan dit zelfs voor kortsluiting op het moederbord zorgen.
-- Een iPad repareren is een nachtmerrie.
-- De binnenkant van een samsung-smartphone is veel handiger om te repareren dan een Apple-smartphone.
+- Een iPad repareren is een nachtmerrie. In sommige gevallen is het enkel het scherm repareren, dat is al een vervelend en tijdrovend werkje. Maar als er iets onder het scherm stuk is (bijvoorbeeld de batterij) moet men het scherm er eerst afhalen, met 99% kans dat het scherm daarbij breekt. 
+- De binnenkant van een samsung-smartphone is veel handiger om te repareren dan een Apple-smartphone, doordat de indeling veel logischer is. Ook zijn de onderdelen veel makkelijker te vervangen.
   - Hier ziet u een opengemaakte Samsung-smartphone.
 ![afbeelding](afb/OpenSamsung.jpg)
  
@@ -38,7 +38,7 @@ Hier vertel ik kort wat er aan de hand was en hoe we dat hebben opgelost, samen 
 Om geen problemen te veroorzaken bij de klant mocht ik geen foto's maken van deze uitstap. 
 Hier som ik even de basisstappen op zoals ik ze heb geleerd van de hardware-engineer.
 
-- Bij het binnenkomen eerst vragen stellen om meteen zoveel mogelijk info over het probleem te weten te komen.
+- Bij het binnenkomen kan je best eerst vragen stellen om meteen zoveel mogelijk info over het probleem te weten te komen.
 - Eens in de IT-ruimte of serverafdeling, beginnen we altijd met de hardware na te kijken.
   Wanneer het probleem niet meteen duidelijk is, zal je softwarematig een antwoord moeten zoeken.
 
