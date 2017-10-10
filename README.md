@@ -46,7 +46,7 @@ Hier som ik even de basisstappen op zoals ik ze heb geleerd van de hardware-engi
 Wanneer dit niet lukt, moet je extra documentatie gaan zoeken en kijken waar de fout zit.
 - Indien dit een volledig nieuwe klant is en er dus geen documentatie te vinden is, zal je moeten back-tracen: de bron van het probleem zoeken. 
 Best geef je je laptop nu een vast IP-adres zodat je verbinding met het internet hebt.
-- Nu moet je weer even je ogen gebruiken: Kijk nog eens even naar alle toestellen en controlleer of ze werken.
+- Nu moet je weer even je ogen gebruiken: Kijk nog eens even naar alle toestellen en controleer of ze werken.
 - Hierna ga je de server even checken. 
   - Allereerst start je de server handmatig op. Als er een scherm bij hoort kan je daarmee werken, anders (zoals in ons geval) via Remote Desktop. 
 Via dat programma kan je de naam of het IP-adres van de server ingeven, gevolgd door een gebruikersnaam en een paswoord.
@@ -116,7 +116,7 @@ Een van die keuzes is bijvoorbeeld om "op de baan" te werken: naar klanten gaan 
 
 # Donderdag 5 Oktober 2017
 ### Navision Support
-> Vandaag heb ik eerst een halve dag bij Navision Support gestaan. Daar onderhouden ze vooral de SQL database achter Microsoft Dynamics NAV en maken ze nieuwe tickets, maar beheren ze ook het volledige Microsoft Dynamics NAV pakket (de ERP, enterprise recource planning). Navision Support beheerd de "NAV" mailbox, waarin alle vragen en klachten binnenkomen van mensen die in hun bedrijf ook NAV gebruiken. Bij sommige, erg belangrijke tickets proberen ze meteen een oplossing te vinden, andere tickets moeten opgelost worden bij Remote Support. Ik heb hier vooral extra info gekregen over de gebruikte software, en deze zal ik hier met jullie meedelen.
+> Vandaag heb ik eerst een halve dag bij Navision Support gestaan. Daar onderhouden ze vooral de SQL database achter Microsoft Dynamics NAV en maken ze nieuwe tickets, maar beheren ze ook het volledige Microsoft Dynamics NAV pakket (de ERP, enterprise recource planning). Navision Support beheert de "NAV" mailbox, waarin alle vragen en klachten binnenkomen van mensen die in hun bedrijf ook NAV gebruiken. Bij sommige, erg belangrijke tickets proberen ze meteen een oplossing te vinden, andere tickets moeten opgelost worden bij Remote Support. Ik heb hier vooral extra info gekregen over de gebruikte software, en deze zal ik hier met jullie meedelen.
 - Nieuwe tickets aanmaken is makkelijker dan ooit, de klant kan gewoon naar een webadres surfen, zijn vraag ingeven en deze vraag volledig volgen tot deze opgelost is. De klant kan perfect volgen wie er nu met zijn vraag bezig is, en wat ze ermee doen.
 [Microsoft Dynamics NAV](https://www.microsoft.com/nl-be/dynamics365/nav-overview)
   - Ik heb nog even een screenshot gevraagd aan mijn begeleider zodat jullie toch een idee hebben over hoe NAV eruitziet. Dit is de menu-pagina: 
@@ -130,7 +130,7 @@ Een van die keuzes is bijvoorbeeld om "op de baan" te werken: naar klanten gaan 
 - VPN (virtual private network) wordt vaak gebruikt om een klein probleem op een server van op afstand op te lossen, waardoor er geen technieker moet langskomen. Met behulp van het programma FortiClient kan men de server van op een afstand beheren en de fouten oplossen. Een andere manier waarop ze dit ook soms doen is via RDP (remote desktop protocol, beter gekend als extern bureaublad). Zo kan men ook het scherm overnemen en inloggen op de servers.
 [FortiClient](http://www.forticlient.com/)
 - FTP (file transfer protocol) wordt vaak gebruikt om aan de bestanden van een andere computer te kunnen. Meestal werkt dit via een FTP-server, beveiligd met een username en password (uiteraard!).
-- Microsoft Visio Professional is het programma dat men gebruikt om snle gekrabbelde schema's professioneel uit te werken zodat ze die netjes kunnen voorleggen bij de klant.
+- Microsoft Visio Professional is het programma dat men gebruikt om snel gekrabbelde schema's professioneel uit te werken zodat ze die netjes kunnen voorleggen bij de klant.
 [Microsoft Visio Professional](https://products.office.com/nl-be/visio/flowchart-software?tab=tabs-1)
 > Ook ben ik nog iets anders tegengekomen, maar eerder informatief.
 - Sommige klanten hebben een prepaid contract, ze betalen in het begin een grote som geld, en bij elke support die er wordt uitgevoerd wordt het bedrag gewoon inmindering gebracht, tot het uiteindelijk "op" is. In dat geval kan het bedrijf kiezen om de samenwerking stop te zetten of een nieuw contract aan te kopen. 
